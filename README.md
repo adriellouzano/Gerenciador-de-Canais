@@ -88,17 +88,17 @@ React SPA (Front‑end)
 
 ---
 
-## ✅ Pré‑requisitos
+##  Pré‑requisitos
 
 Antes de executar o projeto, instale:
 
 * Node.js 18+
 * MySQL 8.0
-* npm ou yarn
+* yarn
 
 ---
 
-## ⚙️ Variáveis de Ambiente
+##  Variáveis de Ambiente
 
 O projeto utiliza arquivos `.env` separados para front‑end e back‑end.
 
@@ -116,9 +116,9 @@ cp .env.example .env
 
 ---
 
-## 📦 Instalação e Execução
+##  Instalação e Execução
 
-### 🔹 Back‑end
+###  Back‑end
 
 ```bash
 cd back-end
@@ -130,7 +130,7 @@ O servidor iniciará a API REST.
 
 ---
 
-### 🔹 Front‑end
+###  Front‑end
 
 ```bash
 cd front-end
@@ -163,6 +163,6 @@ Projeto acadêmico — 2025
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Uso educacional e acadêmico.
