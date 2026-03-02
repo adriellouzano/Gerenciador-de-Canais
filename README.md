@@ -158,7 +158,7 @@ Projeto desenvolvido para aplicação prática dos conceitos de:
 ##  Autor
 
 **Adriel Rodrigues Louzano**
-Disciplina: Linguagem de Programação III
+Disciplina: Linguagem de Programação III<br>
 Projeto acadêmico — 2025
 
 ---
